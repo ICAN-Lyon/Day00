@@ -11,6 +11,13 @@ Pour valider un Day il faudra avoir au moins 50% d'exercices résolus sur le Day
 La première étape consiste à récupérer l'adresse du repository github du Day, et ensuite de le fork. Et par la suite faire un git clone via la CLI. Résoudre les exercices et faire un commit de tes travaux.
 Tu devras donner ensuite le lien du repository à ton correcteur. Pour qu'ils puissent valider tes exercices. Si la correction de ton pair te semblent correcte, tu peux soumettre ton Day au "Maître Nageur" pour qu'il puisse valider ton Day ou pas. Si au moins 50% des exercices sont résolus, tu valides ton Day. Si ce n'est pas le cas et que le correcteur s'est trompé dans sa correction ( ce qui peut être possible ), tu devras recommencer les exercices et à nouveau te faire corriger par un correcteur. 
 
+Chaque exercice doit être soigneusement rangé dans son dossier voici l'arborescence : 
+Day00
+  ex00
+  ex01
+  ex02 
+  etc 
+
 Le repository doit être le même pour chaque correcteur. Si jamais le premier correcteur découvre une erreur, libre à toi d'annuler la future deuxième correction à venir pour reprocéder à une correction intégrale avant validation du "Maitre Nageur". 
 
 ## Procédure de correction
@@ -24,3 +31,9 @@ Le(a) correcteur(rice) clone votre repository, ensuite il(elle) est totalement l
 - Vous ne trouvez pas votre réponse, demandez à Google.
 - Relisez votre code, et le sujet avant de rendre vos exercices.
 - Attention aux droits de vos fichiers et de vos répertoires.
+
+
+## Ressources 
+https://www.notion.so/Cours-Python-68e592f91221420eba92600f7867f93a
+https://foremost-wedelia-db3.notion.site/Piscine-Python-Day00-03c2d462ed164ef6978c27a0cddf974e?pvs=4
+
